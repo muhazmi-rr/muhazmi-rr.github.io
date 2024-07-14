@@ -4,6 +4,7 @@
 
 ### Proyek Riset Bisnis di Empirix
 [Analisis transaksi ritel di suatu bisnis ritel fashion dalam enam bulan terakhir](https://empirixresearch.com/portfolio/ritel-fashion/)
+
 [Analisis kepuasan pelanggan kelas ekonomi pada suatu maskapai penerbangan](https://empirixresearch.com/portfolio/maskapai-penerbangan/)
 
 ### Proyek Latihan 
