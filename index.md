@@ -11,4 +11,4 @@
 
 ### Proyek Latihan 
 [Segmentasi Pelanggan Menggunakan Python](/Customer_Segmentation_with_Python.md)  
-<img src="Customer Segmentation with Python/7.png?raw=true"/>
+<img src="analisis-segmentasi-pelanggan-thumbnail.jpg?raw=true"/>
