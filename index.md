@@ -1,6 +1,6 @@
 ## Portfolio
 
-### Proyek Riset Bisnis di Empirix
+### Proyek Riset Bisnis Milik Saya di Empirix
 [Analisis transaksi ritel di suatu bisnis ritel fashion](https://empirixresearch.com/portfolio/ritel-fashion/)
 <br>
 <img src="ritel-fashion-thumbnail.jpg?raw=true"/>
