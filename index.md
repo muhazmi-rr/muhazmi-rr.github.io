@@ -1,6 +1,6 @@
-## Portfolio
+## Portofolio Data Analysis
 
-### Proyek Riset Bisnis Milik Saya di Empirix
+### Analisis Data yang Saya Lakukan di Proyek Riset Bisnis Milik Empirix
 [Analisis transaksi ritel di suatu bisnis ritel fashion](https://empirixresearch.com/portfolio/ritel-fashion/)
 <br>
 <img src="ritel-fashion-thumbnail.jpg?raw=true"/>
@@ -9,7 +9,7 @@
 <br>
 <img src="maskapai-penerbangan-thumbnail.jpg?raw=true"/>
 
-### Proyek Latihan 
+### Latihan Analisis Data 
 [Segmentasi Pelanggan Menggunakan Python](/Customer_Segmentation_with_Python.md)
 <br>
 <img src="analisis-segmentasi-pelanggan-thumbnail.jpg?raw=true"/>
